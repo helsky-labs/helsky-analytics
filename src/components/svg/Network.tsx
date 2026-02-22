@@ -1,4 +1,5 @@
 import type { SVGProps } from 'react';
+import * as React from 'react';
 
 const SvgNetwork = (props: SVGProps<SVGSVGElement>) => (
   <svg

@@ -1,4 +1,5 @@
 import type { SVGProps } from 'react';
+import * as React from 'react';
 
 const SvgWebsite = (props: SVGProps<SVGSVGElement>) => (
   <svg

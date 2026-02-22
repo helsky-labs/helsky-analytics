@@ -1,4 +1,5 @@
 import type { SVGProps } from 'react';
+import * as React from 'react';
 
 const SvgPushpin = (props: SVGProps<SVGSVGElement>) => (
   <svg width="1em" height="1em" fill="currentColor" viewBox="0 0 1024 1024" {...props}>
